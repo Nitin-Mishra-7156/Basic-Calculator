@@ -5,13 +5,13 @@ This repository contains a simple calculator application that performs basic ari
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Open the `calculator.py` file in a text editor.
+2. Open the `index_gui.py` file in a text editor.
 3. Save the file.
-4. Open a terminal window and navigate to the directory containing the `calculator.py` file.
+4. Open a terminal window and navigate to the directory containing the `index_gui.py` file.
 5. Run the following command:
 
 ```
-python calculator.py
+python index_gui.py
 ```
 
 This will launch the calculator application.
