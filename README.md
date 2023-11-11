@@ -36,6 +36,8 @@ pip install tkinter
 ```
 
 
+Screenshots:
+
 ![d303701f-efe0-4c09-a4af-d25f6f06482e](https://github.com/Nitin-Mishra-7156/Basic-Calculator/assets/83249496/6bd6e1ef-b2ed-4d19-bfa9-49eb50a6113e)
 ![b7787e54-ccf1-49dc-8723-4baf4c80e041](https://github.com/Nitin-Mishra-7156/Basic-Calculator/assets/83249496/cdcb895f-08cf-4ef0-8bc0-8986c16922ad)
 ![e907808f-81aa-4f0b-b45e-682f2607ce30](https://github.com/Nitin-Mishra-7156/Basic-Calculator/assets/83249496/10765a53-ecb6-4543-9ac8-b7ed856a7a68)
