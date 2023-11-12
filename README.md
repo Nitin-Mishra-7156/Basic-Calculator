@@ -1,5 +1,5 @@
 # Simple Calculator
-
+ 
 This repository contains a simple calculator application that performs basic arithmetic operations (+, -, *, /), exponentiation (pow), and square root (sqrt). The calculator uses a graphical user interface (GUI) built with Tkinter to provide a user-friendly experience.
 
 ## Usage
